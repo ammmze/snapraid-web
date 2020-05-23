@@ -1,0 +1,22 @@
+{
+  "name": "snapraid-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "9.4.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.8.0",
+    "@testing-library/react": "^10.0.4",
+    "@testing-library/user-event": "^10.3.5",
+    "jest": "^26.0.1"
+  }
+}
